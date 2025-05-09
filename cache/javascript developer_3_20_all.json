@@ -1,0 +1,419 @@
+{
+  "vacancies": [
+    {
+      "id": "120310301",
+      "name": "Java-backend developer",
+      "employer": {
+        "name": "Credit.Club",
+        "url": "https://hh.ru/employer/2772682"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "Java",
+        "Spring Framework",
+        "Spring Boot",
+        "REST API",
+        "MongoDB",
+        "SQL",
+        "Git"
+      ]
+    },
+    {
+      "id": "120024723",
+      "name": "Frontend-разработчик",
+      "employer": {
+        "name": "Alto",
+        "url": "https://hh.ru/employer/1822184"
+      },
+      "salary_from": null,
+      "salary_to": 100000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "HTML",
+        "JavaScript",
+        "CSS3",
+        "TypeScript",
+        "React",
+        "REST API",
+        "GitHub",
+        "VueJS",
+        "Nuxt.js"
+      ]
+    },
+    {
+      "id": "119925059",
+      "name": "QA тестировщик",
+      "employer": {
+        "name": "КИК",
+        "url": "https://hh.ru/employer/5194472"
+      },
+      "salary_from": 110000,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": []
+    },
+    {
+      "id": "108281674",
+      "name": "Начинающий веб-разработчик",
+      "employer": {
+        "name": "Артена",
+        "url": "https://hh.ru/employer/5397676"
+      },
+      "salary_from": 50000,
+      "salary_to": null,
+      "experience": "Нет опыта",
+      "key_skills": [
+        "MySQL",
+        "jQuery",
+        "PHP",
+        "HTML",
+        "CSS",
+        "1С-Битрикс",
+        "Наполнение контентом",
+        "Администрирование сайтов",
+        "Веб-программирование"
+      ]
+    },
+    {
+      "id": "119765967",
+      "name": "Frontend-разработчик",
+      "employer": {
+        "name": "Студия ИСКРА",
+        "url": "https://hh.ru/employer/4240536"
+      },
+      "salary_from": 70000,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "JavaScript",
+        "HTML",
+        "Git",
+        "MySQL",
+        "Wordpress",
+        "VueJS"
+      ]
+    },
+    {
+      "id": "120216564",
+      "name": "Frontend-разработчик (офис)",
+      "employer": {
+        "name": "Dotimo",
+        "url": "https://hh.ru/employer/4944824"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Webpack",
+        "Threejs"
+      ]
+    },
+    {
+      "id": "120344322",
+      "name": "Программист",
+      "employer": {
+        "name": "Малкова Татьяна Николаевна",
+        "url": "https://hh.ru/employer/3430185"
+      },
+      "salary_from": 100000,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": []
+    },
+    {
+      "id": "119281965",
+      "name": "Frontend-разработчик",
+      "employer": {
+        "name": "Artsofte",
+        "url": "https://hh.ru/employer/71518"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "120112472",
+      "name": "Frontend-разработчик React middle",
+      "employer": {
+        "name": "А-Я Академия",
+        "url": "https://hh.ru/employer/5450446"
+      },
+      "salary_from": 80000,
+      "salary_to": 80000,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "React",
+        "Git",
+        "Redux"
+      ]
+    },
+    {
+      "id": "120167562",
+      "name": "Senior Frontend Developer - Сеньор Фронтенд Девелопер (React Three Fiber / 3D Web Games)",
+      "employer": {
+        "name": "Захаров Иван Рафаилович",
+        "url": "https://hh.ru/employer/11396501"
+      },
+      "salary_from": 300000,
+      "salary_to": 400000,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "React",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "119876823",
+      "name": "Верстальщик",
+      "employer": {
+        "name": "Худяков Владислав Андреевич",
+        "url": "https://hh.ru/employer/11961204"
+      },
+      "salary_from": 90000,
+      "salary_to": 140000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "HTML",
+        "JavaScript",
+        "Верстка",
+        "Gsap",
+        "Vue",
+        "Vite",
+        "Pinia",
+        "CompositionAPI",
+        "Perfect pixel",
+        "CSS3",
+        "Animation"
+      ]
+    },
+    {
+      "id": "119942580",
+      "name": "Backend-разработчик",
+      "employer": {
+        "name": "Научно-исследовательский центр Югранефтегаз",
+        "url": "https://hh.ru/employer/1323986"
+      },
+      "salary_from": 60000,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "Node.js",
+        "PHP",
+        "Python",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Redis",
+        "Docker",
+        "Git"
+      ]
+    },
+    {
+      "id": "120206923",
+      "name": "PHP-разработчик (Middle) - офис/гибрид",
+      "employer": {
+        "name": "Юмаркет",
+        "url": "https://hh.ru/employer/9307105"
+      },
+      "salary_from": 120000,
+      "salary_to": 150000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "PHP",
+        "MySQL",
+        "JavaScript",
+        "Laravel"
+      ]
+    },
+    {
+      "id": "119640388",
+      "name": "Frontend-разработчик Middle / Middle+",
+      "employer": {
+        "name": "Контент",
+        "url": "https://hh.ru/employer/3883907"
+      },
+      "salary_from": 100000,
+      "salary_to": 200000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "CSS3",
+        "React",
+        "Redux",
+        "React Native",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "119643596",
+      "name": "Python-разработчик",
+      "employer": {
+        "name": "CONVEX",
+        "url": "https://hh.ru/employer/593916"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "Python",
+        "Git",
+        "REST API",
+        "VueJS",
+        "Django Framework",
+        "JavaScript",
+        "MySQL"
+      ]
+    },
+    {
+      "id": "119640380",
+      "name": "Frontend-разработчик Middle+ / Senior",
+      "employer": {
+        "name": "Контент",
+        "url": "https://hh.ru/employer/3883907"
+      },
+      "salary_from": 150000,
+      "salary_to": 300000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "CSS3",
+        "React",
+        "Redux",
+        "React Native",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "119649095",
+      "name": "Fullstack разработчик",
+      "employer": {
+        "name": "БОЯРД",
+        "url": "https://hh.ru/employer/565468"
+      },
+      "salary_from": 120000,
+      "salary_to": 180000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "HTML",
+        "Веб-дизайн",
+        "MySQL",
+        "Создание дизайн-системы",
+        "Тестирование пользовательского интерфейса"
+      ]
+    },
+    {
+      "id": "116238335",
+      "name": "Junior fullstack developer",
+      "employer": {
+        "name": "ДОМА",
+        "url": "https://hh.ru/employer/5410307"
+      },
+      "salary_from": 40000,
+      "salary_to": 65000,
+      "experience": "Нет опыта",
+      "key_skills": [
+        "JavaScript",
+        "TypeScript",
+        "Git",
+        "GraphQL",
+        "Postgres",
+        "Redis",
+        "NextJs",
+        "React",
+        "Node.js"
+      ]
+    },
+    {
+      "id": "119489693",
+      "name": "JavaScript Backend разработчик",
+      "employer": {
+        "name": "JetStyle",
+        "url": "https://hh.ru/employer/4515"
+      },
+      "salary_from": 50000,
+      "salary_to": null,
+      "experience": "Нет опыта",
+      "key_skills": []
+    },
+    {
+      "id": "119391817",
+      "name": "Разработчик C# (Junior/Middle)",
+      "employer": {
+        "name": "СТАРКОВ Групп",
+        "url": "https://hh.ru/employer/4483651"
+      },
+      "salary_from": 150000,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "SQL",
+        "C#",
+        "MS SQL",
+        "ООП",
+        "ECM",
+        ".NET Framework",
+        "Directum RX",
+        "Внедрение",
+        "Информационные системы",
+        "Directum",
+        "Обучение и развитие",
+        "Базы данных",
+        "Visual Studio C#",
+        "Автоматизация документооборота",
+        "Git",
+        "Linux"
+      ]
+    }
+  ],
+  "statistics": {
+    "total": 98,
+    "salary_stats": {
+      "min": 40000,
+      "max": 400000,
+      "mean": 133541.66666666666,
+      "median": 110000
+    },
+    "experience_distribution": {
+      "От 3 до 6 лет": 3,
+      "От 1 года до 3 лет": 14,
+      "Нет опыта": 3
+    },
+    "top_skills": {
+      "JavaScript": 10,
+      "Git": 7,
+      "HTML": 7,
+      "React": 6,
+      "MySQL": 6,
+      "CSS3": 5,
+      "TypeScript": 5,
+      "REST API": 3,
+      "VueJS": 3,
+      "PHP": 3,
+      "CSS": 3,
+      "Redux": 3,
+      "MongoDB": 2,
+      "SQL": 2,
+      "Node.js": 2,
+      "Python": 2,
+      "Redis": 2,
+      "React Native": 2,
+      "Java": 1,
+      "Spring Framework": 1
+    },
+    "skills_stats": {
+      "total_vacancies_with_skills": 17
+    }
+  }
+}

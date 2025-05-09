@@ -1,0 +1,333 @@
+{
+  "vacancies": [
+    {
+      "id": "120226828",
+      "name": "Младший специалист по тестированию",
+      "employer": {
+        "name": "Панина Анастасия Александровна",
+        "url": "https://hh.ru/employer/5995606"
+      },
+      "salary_from": 70000,
+      "salary_to": null,
+      "experience": "Нет опыта",
+      "key_skills": []
+    },
+    {
+      "id": "120243020",
+      "name": "Manual QA Engineer",
+      "employer": {
+        "name": "Axenix (ранее Accenture)",
+        "url": "https://hh.ru/employer/4080"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120287789",
+      "name": "Тестировщик/QA engineer",
+      "employer": {
+        "name": "Карвиль",
+        "url": "https://hh.ru/employer/2638816"
+      },
+      "salary_from": 150000,
+      "salary_to": 200000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "Функциональное тестирование",
+        "SQL",
+        "Тестирование",
+        "Тестирование пользовательского интерфейса"
+      ]
+    },
+    {
+      "id": "120303810",
+      "name": "Junior QA Engineer / Тестировщик ПО",
+      "employer": {
+        "name": "Элементарные программные решения",
+        "url": "https://hh.ru/employer/4543504"
+      },
+      "salary_from": null,
+      "salary_to": 100000,
+      "experience": "Нет опыта",
+      "key_skills": [
+        "Английский язык",
+        "Тестирование",
+        "QA",
+        "Ручное тестирование",
+        "Нагрузочное тестирование",
+        "Автоматизация тестирования",
+        "Linux",
+        "Автоматизированное тестирование"
+      ]
+    },
+    {
+      "id": "120264915",
+      "name": "Ручной тестировщик",
+      "employer": {
+        "name": "Axenix (ранее Accenture)",
+        "url": "https://hh.ru/employer/4080"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120217156",
+      "name": "Тестировщик (в офис)",
+      "employer": {
+        "name": "МИЛТИ",
+        "url": "https://hh.ru/employer/2756417"
+      },
+      "salary_from": 100000,
+      "salary_to": 120000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120263890",
+      "name": "Junior QA Engineer/Младший тестировщик",
+      "employer": {
+        "name": "Монополия",
+        "url": "https://hh.ru/employer/581224"
+      },
+      "salary_from": 80000,
+      "salary_to": 80000,
+      "experience": "Нет опыта",
+      "key_skills": []
+    },
+    {
+      "id": "120300880",
+      "name": "Тестировщик ПО (QA Engineer)",
+      "employer": {
+        "name": "ИОТ",
+        "url": "https://hh.ru/employer/4837179"
+      },
+      "salary_from": 100000,
+      "salary_to": 200000,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "Тестирование",
+        "Регрессионное тестирование",
+        "Функциональное тестирование",
+        "Тест-матрица",
+        "Интеграционное тестирование",
+        "Ручное тестирование",
+        "Нагрузочное тестирование",
+        "Автоматизированное тестирование"
+      ]
+    },
+    {
+      "id": "120327991",
+      "name": "QA engineer / Тестировщик",
+      "employer": {
+        "name": "Тендертех",
+        "url": "https://hh.ru/employer/2234899"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "Тестирование",
+        "Python"
+      ]
+    },
+    {
+      "id": "119910415",
+      "name": "QA manual в направление авиа (команда FireFly)",
+      "employer": {
+        "name": "Туту",
+        "url": "https://hh.ru/employer/5325"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120278818",
+      "name": "Тестировщик",
+      "employer": {
+        "name": "НОРСИ-ТРАНС",
+        "url": "https://hh.ru/employer/59462"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "Написание автотестов",
+        "Python",
+        "Ручное тестирование"
+      ]
+    },
+    {
+      "id": "120277319",
+      "name": "Intern QA Manual",
+      "employer": {
+        "name": "IBS",
+        "url": "https://hh.ru/employer/139"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "Нет опыта",
+      "key_skills": []
+    },
+    {
+      "id": "119894351",
+      "name": "QA manual",
+      "employer": {
+        "name": "Lexicom",
+        "url": "https://hh.ru/employer/4935440"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120318650",
+      "name": "Manual QA Engineer (Middle)",
+      "employer": {
+        "name": "Flocktory",
+        "url": "https://hh.ru/employer/711221"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": []
+    },
+    {
+      "id": "119557161",
+      "name": "QA engineer",
+      "employer": {
+        "name": "Centicore",
+        "url": "https://hh.ru/employer/4837406"
+      },
+      "salary_from": 250000,
+      "salary_to": 350000,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "SQL",
+        "Java",
+        "C#",
+        "API",
+        "Postman",
+        "SOAP"
+      ]
+    },
+    {
+      "id": "119335531",
+      "name": "QA-инженер",
+      "employer": {
+        "name": "Системная Интеграция",
+        "url": "https://hh.ru/employer/11753172"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120240613",
+      "name": "Тестировщик - QA Engineer (Middle+)",
+      "employer": {
+        "name": "BIV",
+        "url": "https://hh.ru/employer/1452716"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "Работа в команде",
+        "Функциональное тестирование",
+        "Ручное тестирование"
+      ]
+    },
+    {
+      "id": "120286226",
+      "name": "QA инженер",
+      "employer": {
+        "name": "Spice IT",
+        "url": "https://hh.ru/employer/654435"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "REST API",
+        "SQL",
+        "REST",
+        "SOAP",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "120227969",
+      "name": "Manual QA engineer",
+      "employer": {
+        "name": "Finstar Financial Group",
+        "url": "https://hh.ru/employer/180028"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120291570",
+      "name": "Старший тестировщик",
+      "employer": {
+        "name": "Level Group",
+        "url": "https://hh.ru/employer/2880362"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "Vanessa",
+        "Автоматизированное тестирование"
+      ]
+    }
+  ],
+  "statistics": {
+    "total": 3925,
+    "salary_stats": {
+      "min": 70000,
+      "max": 350000,
+      "mean": 150000.0,
+      "median": 120000
+    },
+    "experience_distribution": {
+      "Нет опыта": 4,
+      "От 1 года до 3 лет": 10,
+      "От 3 до 6 лет": 6
+    },
+    "top_skills": {
+      "Тестирование": 4,
+      "Ручное тестирование": 4,
+      "Функциональное тестирование": 3,
+      "SQL": 3,
+      "Автоматизированное тестирование": 3,
+      "Нагрузочное тестирование": 2,
+      "Python": 2,
+      "SOAP": 2,
+      "Тестирование пользовательского интерфейса": 1,
+      "Английский язык": 1,
+      "QA": 1,
+      "Автоматизация тестирования": 1,
+      "Linux": 1,
+      "Регрессионное тестирование": 1,
+      "Тест-матрица": 1,
+      "Интеграционное тестирование": 1,
+      "Написание автотестов": 1,
+      "Java": 1,
+      "C#": 1,
+      "API": 1
+    },
+    "skills_stats": {
+      "total_vacancies_with_skills": 9
+    }
+  }
+}

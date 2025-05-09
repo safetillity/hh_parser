@@ -1,0 +1,395 @@
+{
+  "vacancies": [
+    {
+      "id": "120345419",
+      "name": "Руководитель проекта/ Проджект менеджер",
+      "employer": {
+        "name": "TIQUM",
+        "url": "https://hh.ru/employer/863576"
+      },
+      "salary_from": 200000,
+      "salary_to": null,
+      "experience": "Более 6 лет",
+      "key_skills": [
+        "Организаторские навыки",
+        "Планирование бюджета",
+        "Организация работы сотрудников",
+        "Анализ целевой аудитории"
+      ]
+    },
+    {
+      "id": "118049465",
+      "name": "Senior Frontend-разработчик (ALD Pro)",
+      "employer": {
+        "name": "Группа компаний Астра",
+        "url": "https://hh.ru/employer/5060211"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "Более 6 лет",
+      "key_skills": [
+        "JavaScript",
+        "React",
+        "HTML",
+        "CSS",
+        "Atlassian Jira",
+        "Linux",
+        "UX"
+      ]
+    },
+    {
+      "id": "120219625",
+      "name": "Middle/Senior frontend-разработчик (JavaScript и TypeScript)",
+      "employer": {
+        "name": "ALFA system",
+        "url": "https://hh.ru/employer/476"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "Более 6 лет",
+      "key_skills": [
+        "JavaScript",
+        "React",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "120316332",
+      "name": "Технический директор (CTO)",
+      "employer": {
+        "name": "ГКУ Инфогород",
+        "url": "https://hh.ru/employer/2427329"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "Более 6 лет",
+      "key_skills": []
+    },
+    {
+      "id": "118152001",
+      "name": "Frontend разработчик",
+      "employer": {
+        "name": "Клауд Солюшенс",
+        "url": "https://hh.ru/employer/5807475"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "Более 6 лет",
+      "key_skills": []
+    },
+    {
+      "id": "119952669",
+      "name": "Senior Java/Kotlin Developer",
+      "employer": {
+        "name": "Лалиев Никита Алексеевич",
+        "url": "https://hh.ru/employer/10945663"
+      },
+      "salary_from": 4500,
+      "salary_to": 6000,
+      "experience": "Более 6 лет",
+      "key_skills": [
+        "Kotlin",
+        "Spring Boot",
+        "Node.js",
+        "MongoDB",
+        "PostgreSQL",
+        "Redis"
+      ]
+    },
+    {
+      "id": "120244872",
+      "name": "Frontend JS Native developer",
+      "employer": {
+        "name": "PravoTech",
+        "url": "https://hh.ru/employer/727029"
+      },
+      "salary_from": null,
+      "salary_to": 265000,
+      "experience": "Более 6 лет",
+      "key_skills": [
+        "Ember",
+        "Git",
+        "Atlassian Jira",
+        "Kanban",
+        "Agile",
+        "JavaScript",
+        "JS Native",
+        "Vanila JS"
+      ]
+    },
+    {
+      "id": "117122225",
+      "name": "Тестировщик",
+      "employer": {
+        "name": "НЭПТ",
+        "url": "https://hh.ru/employer/68703"
+      },
+      "salary_from": 150000,
+      "salary_to": null,
+      "experience": "Более 6 лет",
+      "key_skills": [
+        "сборка стендов",
+        "работа с периферийным оборудованием",
+        "тестирование программно-аппаратных комплексов",
+        "RS-485",
+        "CAN",
+        "Linux"
+      ]
+    },
+    {
+      "id": "120325503",
+      "name": "Senior frontend / fullstack разработчик (фронт) React. js + Node. js / AI Startup",
+      "employer": {
+        "name": "Буров Алексей Константинович",
+        "url": "https://hh.ru/employer/10867473"
+      },
+      "salary_from": 250000,
+      "salary_to": 400000,
+      "experience": "Более 6 лет",
+      "key_skills": [
+        "Разработка ПО",
+        "Web Application Development",
+        "Веб-программирование",
+        "React",
+        "TypeScript",
+        "Redux",
+        "Node.js",
+        "tRPC",
+        "PostgreSQL",
+        "Redis",
+        "Kubernetes"
+      ]
+    },
+    {
+      "id": "119377366",
+      "name": "Senior Backend Engineer",
+      "employer": {
+        "name": "Podscribe",
+        "url": "https://hh.ru/employer/9091068"
+      },
+      "salary_from": 6000,
+      "salary_to": 12000,
+      "experience": "Более 6 лет",
+      "key_skills": [
+        "Python",
+        "Английский язык",
+        "TypeScript",
+        "AWS",
+        "Big Data",
+        "Node.js",
+        "PostgreSQL",
+        "Clickhouse",
+        "Apache Kafka",
+        "Golang",
+        "ECS"
+      ]
+    },
+    {
+      "id": "119601460",
+      "name": "Senior Frontend (React, TypeScript)",
+      "employer": {
+        "name": "JFoRecruitment",
+        "url": "https://hh.ru/employer/9196211"
+      },
+      "salary_from": 400000,
+      "salary_to": 500000,
+      "experience": "Более 6 лет",
+      "key_skills": [
+        "React",
+        "TypeScript",
+        "Webpack",
+        "WebSocket",
+        "Docker",
+        "REST",
+        "Figma",
+        "Vite",
+        "Node.js.",
+        "Babel"
+      ]
+    },
+    {
+      "id": "119955915",
+      "name": "Frontend / Fullstack разработчик (JavaScript + Node.js)",
+      "employer": {
+        "name": "Интеграция Дистрибуция Проекты",
+        "url": "https://hh.ru/employer/11912401"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "Более 6 лет",
+      "key_skills": [
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "Docker",
+        "Redis",
+        "WebSocket",
+        "PostgreSQL",
+        "Unit Testing",
+        "Git",
+        "HTTP",
+        "HTTPS"
+      ]
+    },
+    {
+      "id": "119506004",
+      "name": "Backend разработчик (Senior)",
+      "employer": {
+        "name": "Wanted",
+        "url": "https://hh.ru/employer/5174849"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "Более 6 лет",
+      "key_skills": [
+        "Linux",
+        "Laravel",
+        "PHP",
+        "Git",
+        "SOLID"
+      ]
+    },
+    {
+      "id": "120078259",
+      "name": "Senior Frontend разработчик",
+      "employer": {
+        "name": "Компэл",
+        "url": "https://hh.ru/employer/247"
+      },
+      "salary_from": 200000,
+      "salary_to": 260000,
+      "experience": "Более 6 лет",
+      "key_skills": [
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Webpack5",
+        "React"
+      ]
+    },
+    {
+      "id": "120207823",
+      "name": "Руководитель команды разработки",
+      "employer": {
+        "name": "X5 Tech",
+        "url": "https://hh.ru/employer/9352463"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "Более 6 лет",
+      "key_skills": [
+        "JavaScript",
+        "React",
+        "Управление командой"
+      ]
+    },
+    {
+      "id": "120161158",
+      "name": "Rust Backend разработчик",
+      "employer": {
+        "name": "Маковкин Сергей Аркадьевич",
+        "url": "https://hh.ru/employer/5927109"
+      },
+      "salary_from": 6000,
+      "salary_to": 15000,
+      "experience": "Более 6 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120259034",
+      "name": "Frontend разработчик (Angular)",
+      "employer": {
+        "name": "АйТи Сервис Менеджмент",
+        "url": "https://hh.ru/employer/1869751"
+      },
+      "salary_from": 200000,
+      "salary_to": null,
+      "experience": "Более 6 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120298412",
+      "name": "Backend, Frontend, Full stack разработчики в спортивный стартап",
+      "employer": {
+        "name": "Madness",
+        "url": "https://hh.ru/employer/3742160"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "Более 6 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120293661",
+      "name": "Руководитель разработки / Head of Development",
+      "employer": {
+        "name": "Марс",
+        "url": "https://hh.ru/employer/205"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "Более 6 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120288935",
+      "name": "Fullstack-разработчик",
+      "employer": {
+        "name": "Веб-студия Круглый Квадрат",
+        "url": "https://hh.ru/employer/4820623"
+      },
+      "salary_from": 350000,
+      "salary_to": 450000,
+      "experience": "Более 6 лет",
+      "key_skills": [
+        "Node.js",
+        "TypeScript",
+        "SQL",
+        "PostgreSQL",
+        "Redis",
+        "React",
+        "Docker-compose",
+        "GitLab CI",
+        "REST API"
+      ]
+    }
+  ],
+  "statistics": {
+    "total": 211,
+    "salary_stats": {
+      "min": 4500,
+      "max": 500000,
+      "mean": 204138.88888888888,
+      "median": 200000
+    },
+    "experience_distribution": {
+      "Более 6 лет": 20
+    },
+    "top_skills": {
+      "React": 7,
+      "TypeScript": 7,
+      "JavaScript": 6,
+      "Node.js": 5,
+      "PostgreSQL": 5,
+      "Redis": 4,
+      "Linux": 3,
+      "Git": 3,
+      "HTML": 2,
+      "CSS": 2,
+      "Atlassian Jira": 2,
+      "WebSocket": 2,
+      "Docker": 2,
+      "Организаторские навыки": 1,
+      "Планирование бюджета": 1,
+      "Организация работы сотрудников": 1,
+      "Анализ целевой аудитории": 1,
+      "UX": 1,
+      "Kotlin": 1,
+      "Spring Boot": 1
+    },
+    "skills_stats": {
+      "total_vacancies_with_skills": 14
+    }
+  }
+}
