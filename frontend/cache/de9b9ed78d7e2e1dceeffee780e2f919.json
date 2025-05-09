@@ -1,0 +1,285 @@
+{
+  "timestamp": "2025-05-02T03:09:20.481776",
+  "results": [
+    {
+      "id": "120077047",
+      "name": "Веб-разработчик (junior front-end)",
+      "employer": "Крутевич Анна Александровна",
+      "has_salary": "True",
+      "salary_from": "44000.0",
+      "salary_to": "79000.0",
+      "experience": "Нет опыта",
+      "schedule": "Удаленная работа",
+      "key_skills": [
+        ""
+      ],
+      "description": "\"Обязанности:   Разработка пользовательских интерфейсов.   Поддержка и улучшение существующих решений.   Работа с современными фреймворками.   Участие в code review.   Требования:   Без опыта работы.   Базовые знания HTML/CSS.   Понимание основ JavaScript.   Желание развиваться в веб-разработке.   Условия:   Стажировка с нуля"
+    },
+    {
+      "id": "120110174",
+      "name": "Junior разработчик (Python/Go/JavaScript/Java/PHP)",
+      "employer": "Чепайкин Александр Александрович",
+      "has_salary": "True",
+      "salary_from": "69600.0",
+      "salary_to": "",
+      "experience": "Нет опыта",
+      "schedule": "Удаленная работа",
+      "key_skills": [
+        "\"[Python"
+      ],
+      "description": " 'SQL'"
+    },
+    {
+      "id": "120114899",
+      "name": "Младший разработчик JavaScript / Разработчик на платформе",
+      "employer": "Смарт консалтинг",
+      "has_salary": "True",
+      "salary_from": "40000.0",
+      "salary_to": "",
+      "experience": "Нет опыта",
+      "schedule": "Полный день",
+      "key_skills": [
+        "\"[JavaScript"
+      ],
+      "description": " 'SQL'"
+    },
+    {
+      "id": "119655191",
+      "name": "Frontend-разработчик (Junior frontend developer)",
+      "employer": "amoCRM",
+      "has_salary": "True",
+      "salary_from": "",
+      "salary_to": "50460.0",
+      "experience": "Нет опыта",
+      "schedule": "Полный день",
+      "key_skills": [
+        "\"[JavaScript"
+      ],
+      "description": " 'HTML'"
+    },
+    {
+      "id": "120132280",
+      "name": "\"Junior программист JavaScript",
+      "employer": " г. Тбилиси\"",
+      "has_salary": "Политех-Плюс",
+      "salary_from": "True",
+      "salary_to": "102839.0",
+      "experience": "",
+      "schedule": "От 1 года до 3 лет",
+      "key_skills": [
+        "Полный день"
+      ],
+      "description": "\"['JavaScript'"
+    },
+    {
+      "id": "119490196",
+      "name": "\"Frontend-разработчик (HTML/CSS",
+      "employer": " Figma",
+      "has_salary": " анимации)\"",
+      "salary_from": "Адикт",
+      "salary_to": "True",
+      "experience": "75000.0",
+      "schedule": "95000.0",
+      "key_skills": [
+        "От 3 до 6 лет"
+      ],
+      "description": "Удаленная работа"
+    },
+    {
+      "id": "119139796",
+      "name": "\"Junior/Middle Frontend developer (React",
+      "employer": " Next.JS)\"",
+      "has_salary": "РК-ТЕХНОЛОГИИ",
+      "salary_from": "False",
+      "salary_to": "",
+      "experience": "",
+      "schedule": "От 1 года до 3 лет",
+      "key_skills": [
+        "Удаленная работа"
+      ],
+      "description": "\"['JavaScript'"
+    },
+    {
+      "id": "114992984",
+      "name": "Начинающий Frontend-разработчик",
+      "employer": "ЗАЗЕКС",
+      "has_salary": "False",
+      "salary_from": "",
+      "salary_to": "",
+      "experience": "Нет опыта",
+      "schedule": "Полный день",
+      "key_skills": [
+        "\"[JavaScript"
+      ],
+      "description": " 'Bootstrap'"
+    },
+    {
+      "id": "120158510",
+      "name": "Frontend разработчик (Trainee/Junior)",
+      "employer": "DBI",
+      "has_salary": "True",
+      "salary_from": "39150.0",
+      "salary_to": "52200.0",
+      "experience": "Нет опыта",
+      "schedule": "Полный день",
+      "key_skills": [
+        "\"[Git"
+      ],
+      "description": " 'HTTP'"
+    },
+    {
+      "id": "118566317",
+      "name": "Стажер-разработчик React",
+      "employer": "FrameWork Team",
+      "has_salary": "True",
+      "salary_from": "20000.0",
+      "salary_to": "",
+      "experience": "Нет опыта",
+      "schedule": "Полный день",
+      "key_skills": [
+        "\"[Git"
+      ],
+      "description": " 'JavaScript'"
+    },
+    {
+      "id": "120087694",
+      "name": "Стажёр-разработчик Frontend (BI)",
+      "employer": "Газпром нефть",
+      "has_salary": "False",
+      "salary_from": "",
+      "salary_to": "",
+      "experience": "Нет опыта",
+      "schedule": "Полный день",
+      "key_skills": [
+        ""
+      ],
+      "description": "\"Мы – команда IT-кластера «Газпром нефти». Наша миссия: перевести в «цифру» каждый этап работы современного нефтяника. С помощью новейших технологий «Газпром нефть» повышает эффективность поиска залежей нефти"
+    },
+    {
+      "id": "120089865",
+      "name": "Frontend-разработчик",
+      "employer": "Кирилин Алексей Вадимович",
+      "has_salary": "True",
+      "salary_from": "",
+      "salary_to": "100000.0",
+      "experience": "Нет опыта",
+      "schedule": "Полный день",
+      "key_skills": [
+        "JavaScript"
+      ],
+      "description": "\"О компании: Мы — команда профессионалов"
+    },
+    {
+      "id": "119199594",
+      "name": "Начининающий Full Stack разработчик C# / JavaScript / React / Redux",
+      "employer": "Convermax",
+      "has_salary": "True",
+      "salary_from": "87000.0",
+      "salary_to": "",
+      "experience": "Нет опыта",
+      "schedule": "Полный день",
+      "key_skills": [
+        "\"[JavaScript"
+      ],
+      "description": " 'React'"
+    },
+    {
+      "id": "120107368",
+      "name": "Frontend - разработчик",
+      "employer": "ГКУ Инфогород",
+      "has_salary": "False",
+      "salary_from": "",
+      "salary_to": "",
+      "experience": "От 1 года до 3 лет",
+      "schedule": "Полный день",
+      "key_skills": [
+        "\"[JavaScript"
+      ],
+      "description": " 'Angular']\""
+    },
+    {
+      "id": "120160258",
+      "name": "Fullstack-разработчик",
+      "employer": "Кутовая Ксения Владимировна",
+      "has_salary": "True",
+      "salary_from": "90000.0",
+      "salary_to": "150000.0",
+      "experience": "Нет опыта",
+      "schedule": "Удаленная работа",
+      "key_skills": [
+        "\"[JavaScript"
+      ],
+      "description": " 'ASP.NET'"
+    },
+    {
+      "id": "120042466",
+      "name": "Junior Fullstack JavaScript разработчик",
+      "employer": "FINLEO",
+      "has_salary": "True",
+      "salary_from": "50000.0",
+      "salary_to": "90000.0",
+      "experience": "Нет опыта",
+      "schedule": "Полный день",
+      "key_skills": [
+        "\"[JavaScript"
+      ],
+      "description": " 'Node.js'"
+    },
+    {
+      "id": "117647851",
+      "name": "Junior Front-end Developer",
+      "employer": "BP Mobile",
+      "has_salary": "False",
+      "salary_from": "",
+      "salary_to": "",
+      "experience": "От 1 года до 3 лет",
+      "schedule": "Полный день",
+      "key_skills": [
+        "\"[JavaScript"
+      ],
+      "description": " 'Gulp'"
+    },
+    {
+      "id": "116238335",
+      "name": "Junior fullstack developer",
+      "employer": "ДОМА",
+      "has_salary": "True",
+      "salary_from": "40000.0",
+      "salary_to": "65000.0",
+      "experience": "Нет опыта",
+      "schedule": "Полный день",
+      "key_skills": [
+        "\"[JavaScript"
+      ],
+      "description": " 'TypeScript'"
+    },
+    {
+      "id": "120115184",
+      "name": "Frontend разработчик",
+      "employer": "NAN Agency",
+      "has_salary": "False",
+      "salary_from": "",
+      "salary_to": "",
+      "experience": "От 1 года до 3 лет",
+      "schedule": "Полный день",
+      "key_skills": [
+        ""
+      ],
+      "description": "\"Привет! Мы «NAN Аgency» – разработчик и интегратор IT-решений для крупного бизнеса"
+    },
+    {
+      "id": "120156791",
+      "name": "Fullstack-разработчик JS",
+      "employer": "ГК Садовое кольцо",
+      "has_salary": "False",
+      "salary_from": "",
+      "salary_to": "",
+      "experience": "От 1 года до 3 лет",
+      "schedule": "Удаленная работа",
+      "key_skills": [
+        "\"[JavaScript"
+      ],
+      "description": " 'Java'"
+    }
+  ]
+}
