@@ -36,23 +36,29 @@
 ## Структура проекта
 
 ```
-├── frontend/               # React фронтенд приложение
-│   ├── src/
-│   │   ├── components/    # React компоненты
-│   │   ├── store/        # Конфигурация Redux store
-│   │   ├── types/        # TypeScript типы
-│   │   └── utils/        # Утилиты
-│   └── package.json
-│
-├── hh/                    # Python бэкенд приложение
-│   ├── src/
-│   │   ├── analyzer.py   # Модуль анализа данных
+├── backend/                # Python бэкенд приложение
+│   ├── src/               # Исходный код
+│   │   ├── analyzer.py    # Модуль анализа данных
 │   │   ├── data_collector.py  # Интеграция с API HH
-│   │   ├── predictor.py  # Предсказание зарплат
+│   │   ├── predictor.py   # Предсказание зарплат
 │   │   └── currency_exchange.py  # Конвертация валют
-│   └── requirements.txt
+│   ├── researcher.py      # Основной класс для работы с API
+│   ├── server.py         # Flask сервер
+│   ├── settings.json     # Конфигурация
+│   ├── requirements.txt  # Зависимости Python
+│   ├── Dockerfile       # Конфигурация Docker
+│   └── img/             # Изображения и графики
 │
-└── server.py             # Flask сервер
+├── frontend/             # React фронтенд приложение
+│   ├── src/
+│   │   ├── components/  # React компоненты
+│   │   ├── store/      # Redux store
+│   │   ├── types/      # TypeScript типы
+│   │   └── utils/      # Утилиты
+│   ├── public/         # Статические файлы
+│   └── package.json    # Зависимости Node.js
+│
+└── README.md           # Документация проекта
 ```
 
 ## Инструкция по установке
@@ -61,13 +67,13 @@
 
 1. Создайте и активируйте виртуальное окружение:
 ```bash
+cd backend
 python -m venv venv
 source venv/bin/activate  # Для Windows: venv\Scripts\activate
 ```
 
 2. Установите зависимости:
 ```bash
-cd hh
 pip install -r requirements.txt
 ```
 
@@ -134,4 +140,4 @@ GNU GENERAL PUBLIC LICENSE Version 3
 
 ## Автор
 
-Александр Капитанов 
+Архип Савва
