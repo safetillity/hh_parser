@@ -1,0 +1,288 @@
+{
+  "vacancies": [
+    {
+      "id": "119833308",
+      "name": "QA-инженер (веб-сайты)",
+      "employer": {
+        "name": "Флант",
+        "url": "https://hh.ru/employer/1121824"
+      },
+      "salary_from": 80000,
+      "salary_to": 120000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "API",
+        "Postman",
+        "HTML"
+      ]
+    },
+    {
+      "id": "119771963",
+      "name": "Manual QA Engineer (Middle)",
+      "employer": {
+        "name": "ЮНИРЕСТ",
+        "url": "https://hh.ru/employer/17796"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120355236",
+      "name": "Фронтенд разработчик Junior (JavaScript)",
+      "employer": {
+        "name": "Kappa",
+        "url": "https://hh.ru/employer/9368403"
+      },
+      "salary_from": 800,
+      "salary_to": 1000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "Английский язык",
+        "Node.js",
+        "SQL",
+        "Git",
+        "JavaScript",
+        "Аналитическое мышление",
+        "Веб-программирование"
+      ]
+    },
+    {
+      "id": "120223111",
+      "name": "React developer",
+      "employer": {
+        "name": "ИЦ АЙ-ТЕКО",
+        "url": "https://hh.ru/employer/872178"
+      },
+      "salary_from": 200000,
+      "salary_to": 220000,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "Node.js",
+        "React",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "120241568",
+      "name": "Младший (Junior) frontend-разработчик (html/js)",
+      "employer": {
+        "name": "Веб-студия Van Gogh-Link",
+        "url": "https://hh.ru/employer/9352423"
+      },
+      "salary_from": 50000,
+      "salary_to": 70000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "JavaScript",
+        "Кроссбраузерная верстка",
+        "Адаптивная верстка",
+        "HTML/CSS",
+        "GitHub"
+      ]
+    },
+    {
+      "id": "120209292",
+      "name": "Frontend-разработчик",
+      "employer": {
+        "name": "Aiti Guru",
+        "url": "https://hh.ru/employer/5600787"
+      },
+      "salary_from": 80000,
+      "salary_to": 80000,
+      "experience": "Нет опыта",
+      "key_skills": [
+        "JavaScript",
+        "Ext JS"
+      ]
+    },
+    {
+      "id": "120292586",
+      "name": "Frontend-разработчик",
+      "employer": {
+        "name": "Максимум",
+        "url": "https://hh.ru/employer/4860648"
+      },
+      "salary_from": 80000,
+      "salary_to": 200000,
+      "experience": "Нет опыта",
+      "key_skills": []
+    },
+    {
+      "id": "120327197",
+      "name": "Разработчик React",
+      "employer": {
+        "name": "Лига Цифровой Экономики",
+        "url": "https://hh.ru/employer/2733062"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "React",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "120320352",
+      "name": "Junior React Разработчик",
+      "employer": {
+        "name": "OpenBridge",
+        "url": "https://hh.ru/employer/9382880"
+      },
+      "salary_from": 60000,
+      "salary_to": 100000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "CSS"
+      ]
+    },
+    {
+      "id": "120359283",
+      "name": "Backend Python Developer (Dubai onsite)",
+      "employer": {
+        "name": "Neoflex",
+        "url": "https://hh.ru/employer/22494"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "Более 6 лет",
+      "key_skills": [
+        "Python",
+        "Flask",
+        "Celery",
+        "SQLAlchemy",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "RabbitMQ"
+      ]
+    },
+    {
+      "id": "120286226",
+      "name": "QA инженер",
+      "employer": {
+        "name": "Spice IT",
+        "url": "https://hh.ru/employer/654435"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "REST API",
+        "SQL",
+        "REST",
+        "SOAP",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "120300880",
+      "name": "Тестировщик ПО (QA Engineer)",
+      "employer": {
+        "name": "ИОТ",
+        "url": "https://hh.ru/employer/4837179"
+      },
+      "salary_from": 100000,
+      "salary_to": 200000,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "Тестирование",
+        "Регрессионное тестирование",
+        "Функциональное тестирование",
+        "Тест-матрица",
+        "Интеграционное тестирование",
+        "Ручное тестирование",
+        "Нагрузочное тестирование",
+        "Автоматизированное тестирование"
+      ]
+    },
+    {
+      "id": "119935746",
+      "name": "Специалист по тестированию",
+      "employer": {
+        "name": "Аналитические программные решения",
+        "url": "https://hh.ru/employer/3185191"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "API",
+        "REST",
+        "UI",
+        "Функциональное тестирование",
+        "Регрессионное тестирование",
+        "Тестирование по тест-кейсам"
+      ]
+    },
+    {
+      "id": "120223072",
+      "name": "Frontend-разработчик (Middle)",
+      "employer": {
+        "name": "ВижнЛабс (VisionLabs)",
+        "url": "https://hh.ru/employer/1978012"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120266553",
+      "name": "Frontend-разработчик",
+      "employer": {
+        "name": "Antal Talent",
+        "url": "https://hh.ru/employer/2009"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": []
+    }
+  ],
+  "statistics": {
+    "total": 3341,
+    "salary_stats": {
+      "min": 800,
+      "max": 220000,
+      "mean": 102612.5,
+      "median": 80000
+    },
+    "experience_distribution": {
+      "От 1 года до 3 лет": 7,
+      "От 3 до 6 лет": 5,
+      "Нет опыта": 2,
+      "Более 6 лет": 1
+    },
+    "top_skills": {
+      "JavaScript": 6,
+      "React": 3,
+      "API": 2,
+      "Node.js": 2,
+      "SQL": 2,
+      "TypeScript": 2,
+      "REST": 2,
+      "Регрессионное тестирование": 2,
+      "Функциональное тестирование": 2,
+      "Postman": 1,
+      "HTML": 1,
+      "Английский язык": 1,
+      "Git": 1,
+      "Аналитическое мышление": 1,
+      "Веб-программирование": 1,
+      "Кроссбраузерная верстка": 1,
+      "Адаптивная верстка": 1,
+      "HTML/CSS": 1,
+      "GitHub": 1,
+      "Ext JS": 1
+    },
+    "skills_stats": {
+      "total_vacancies_with_skills": 11
+    }
+  }
+}

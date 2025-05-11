@@ -1,0 +1,164 @@
+{
+  "vacancies": [
+    {
+      "id": "119833308",
+      "name": "QA-инженер (веб-сайты)",
+      "employer": {
+        "name": "Флант",
+        "url": "https://hh.ru/employer/1121824"
+      },
+      "salary_from": 80000,
+      "salary_to": 120000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "API",
+        "Postman",
+        "HTML"
+      ]
+    },
+    {
+      "id": "119771963",
+      "name": "Manual QA Engineer (Middle)",
+      "employer": {
+        "name": "ЮНИРЕСТ",
+        "url": "https://hh.ru/employer/17796"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120355236",
+      "name": "Фронтенд разработчик Junior (JavaScript)",
+      "employer": {
+        "name": "Kappa",
+        "url": "https://hh.ru/employer/9368403"
+      },
+      "salary_from": 800,
+      "salary_to": 1000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "Английский язык",
+        "Node.js",
+        "SQL",
+        "Git",
+        "JavaScript",
+        "Аналитическое мышление",
+        "Веб-программирование"
+      ]
+    },
+    {
+      "id": "120223111",
+      "name": "React developer",
+      "employer": {
+        "name": "ИЦ АЙ-ТЕКО",
+        "url": "https://hh.ru/employer/872178"
+      },
+      "salary_from": 200000,
+      "salary_to": 220000,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "Node.js",
+        "React",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "120241568",
+      "name": "Младший (Junior) frontend-разработчик (html/js)",
+      "employer": {
+        "name": "Веб-студия Van Gogh-Link",
+        "url": "https://hh.ru/employer/9352423"
+      },
+      "salary_from": 50000,
+      "salary_to": 70000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "JavaScript",
+        "Кроссбраузерная верстка",
+        "Адаптивная верстка",
+        "HTML/CSS",
+        "GitHub"
+      ]
+    },
+    {
+      "id": "120209292",
+      "name": "Frontend-разработчик",
+      "employer": {
+        "name": "Aiti Guru",
+        "url": "https://hh.ru/employer/5600787"
+      },
+      "salary_from": 80000,
+      "salary_to": 80000,
+      "experience": "Нет опыта",
+      "key_skills": [
+        "JavaScript",
+        "Ext JS"
+      ]
+    },
+    {
+      "id": "120292586",
+      "name": "Frontend-разработчик",
+      "employer": {
+        "name": "Максимум",
+        "url": "https://hh.ru/employer/4860648"
+      },
+      "salary_from": 80000,
+      "salary_to": 200000,
+      "experience": "Нет опыта",
+      "key_skills": []
+    },
+    {
+      "id": "120327197",
+      "name": "Разработчик React",
+      "employer": {
+        "name": "Лига Цифровой Экономики",
+        "url": "https://hh.ru/employer/2733062"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "React",
+        "TypeScript"
+      ]
+    }
+  ],
+  "statistics": {
+    "total": 3341,
+    "salary_stats": {
+      "min": 800,
+      "max": 220000,
+      "mean": 98483.33333333333,
+      "median": 80000
+    },
+    "experience_distribution": {
+      "От 1 года до 3 лет": 4,
+      "От 3 до 6 лет": 2,
+      "Нет опыта": 2
+    },
+    "top_skills": {
+      "JavaScript": 4,
+      "Node.js": 2,
+      "React": 2,
+      "API": 1,
+      "Postman": 1,
+      "HTML": 1,
+      "Английский язык": 1,
+      "SQL": 1,
+      "Git": 1,
+      "Аналитическое мышление": 1,
+      "Веб-программирование": 1,
+      "Кроссбраузерная верстка": 1,
+      "Адаптивная верстка": 1,
+      "HTML/CSS": 1,
+      "GitHub": 1,
+      "Ext JS": 1,
+      "TypeScript": 1
+    },
+    "skills_stats": {
+      "total_vacancies_with_skills": 6
+    }
+  }
+}

@@ -1,0 +1,1029 @@
+{
+  "vacancies": [
+    {
+      "id": "119833308",
+      "name": "QA-инженер (веб-сайты)",
+      "employer": {
+        "name": "Флант",
+        "url": "https://hh.ru/employer/1121824"
+      },
+      "salary_from": 80000,
+      "salary_to": 120000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "API",
+        "Postman",
+        "HTML"
+      ]
+    },
+    {
+      "id": "119771963",
+      "name": "Manual QA Engineer (Middle)",
+      "employer": {
+        "name": "ЮНИРЕСТ",
+        "url": "https://hh.ru/employer/17796"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120355236",
+      "name": "Фронтенд разработчик Junior (JavaScript)",
+      "employer": {
+        "name": "Kappa",
+        "url": "https://hh.ru/employer/9368403"
+      },
+      "salary_from": 800,
+      "salary_to": 1000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "Английский язык",
+        "Node.js",
+        "SQL",
+        "Git",
+        "JavaScript",
+        "Аналитическое мышление",
+        "Веб-программирование"
+      ]
+    },
+    {
+      "id": "120223111",
+      "name": "React developer",
+      "employer": {
+        "name": "ИЦ АЙ-ТЕКО",
+        "url": "https://hh.ru/employer/872178"
+      },
+      "salary_from": 200000,
+      "salary_to": 220000,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "Node.js",
+        "React",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "120241568",
+      "name": "Младший (Junior) frontend-разработчик (html/js)",
+      "employer": {
+        "name": "Веб-студия Van Gogh-Link",
+        "url": "https://hh.ru/employer/9352423"
+      },
+      "salary_from": 50000,
+      "salary_to": 70000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "JavaScript",
+        "Кроссбраузерная верстка",
+        "Адаптивная верстка",
+        "HTML/CSS",
+        "GitHub"
+      ]
+    },
+    {
+      "id": "120209292",
+      "name": "Frontend-разработчик",
+      "employer": {
+        "name": "Aiti Guru",
+        "url": "https://hh.ru/employer/5600787"
+      },
+      "salary_from": 80000,
+      "salary_to": 80000,
+      "experience": "Нет опыта",
+      "key_skills": [
+        "JavaScript",
+        "Ext JS"
+      ]
+    },
+    {
+      "id": "120292586",
+      "name": "Frontend-разработчик",
+      "employer": {
+        "name": "Максимум",
+        "url": "https://hh.ru/employer/4860648"
+      },
+      "salary_from": 80000,
+      "salary_to": 200000,
+      "experience": "Нет опыта",
+      "key_skills": []
+    },
+    {
+      "id": "120327197",
+      "name": "Разработчик React",
+      "employer": {
+        "name": "Лига Цифровой Экономики",
+        "url": "https://hh.ru/employer/2733062"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "React",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "120320352",
+      "name": "Junior React Разработчик",
+      "employer": {
+        "name": "OpenBridge",
+        "url": "https://hh.ru/employer/9382880"
+      },
+      "salary_from": 60000,
+      "salary_to": 100000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "CSS"
+      ]
+    },
+    {
+      "id": "120359283",
+      "name": "Backend Python Developer (Dubai onsite)",
+      "employer": {
+        "name": "Neoflex",
+        "url": "https://hh.ru/employer/22494"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "Более 6 лет",
+      "key_skills": [
+        "Python",
+        "Flask",
+        "Celery",
+        "SQLAlchemy",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "RabbitMQ"
+      ]
+    },
+    {
+      "id": "120286226",
+      "name": "QA инженер",
+      "employer": {
+        "name": "Spice IT",
+        "url": "https://hh.ru/employer/654435"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "REST API",
+        "SQL",
+        "REST",
+        "SOAP",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "120300880",
+      "name": "Тестировщик ПО (QA Engineer)",
+      "employer": {
+        "name": "ИОТ",
+        "url": "https://hh.ru/employer/4837179"
+      },
+      "salary_from": 100000,
+      "salary_to": 200000,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "Тестирование",
+        "Регрессионное тестирование",
+        "Функциональное тестирование",
+        "Тест-матрица",
+        "Интеграционное тестирование",
+        "Ручное тестирование",
+        "Нагрузочное тестирование",
+        "Автоматизированное тестирование"
+      ]
+    },
+    {
+      "id": "119935746",
+      "name": "Специалист по тестированию",
+      "employer": {
+        "name": "Аналитические программные решения",
+        "url": "https://hh.ru/employer/3185191"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "API",
+        "REST",
+        "UI",
+        "Функциональное тестирование",
+        "Регрессионное тестирование",
+        "Тестирование по тест-кейсам"
+      ]
+    },
+    {
+      "id": "120223072",
+      "name": "Frontend-разработчик (Middle)",
+      "employer": {
+        "name": "ВижнЛабс (VisionLabs)",
+        "url": "https://hh.ru/employer/1978012"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120266553",
+      "name": "Frontend-разработчик",
+      "employer": {
+        "name": "Antal Talent",
+        "url": "https://hh.ru/employer/2009"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": []
+    },
+    {
+      "id": "119637678",
+      "name": "Frontend Developer",
+      "employer": {
+        "name": "Сравни",
+        "url": "https://hh.ru/employer/560786"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "JavaScript",
+        "TypeScript",
+        "Redux",
+        "React",
+        "CSS",
+        "HTML",
+        "REST",
+        "Git",
+        "NextJs"
+      ]
+    },
+    {
+      "id": "120268796",
+      "name": "Front-разработчик (офис/гибрид Москва)",
+      "employer": {
+        "name": "Снэп АйТи",
+        "url": "https://hh.ru/employer/10842295"
+      },
+      "salary_from": 145000,
+      "salary_to": 160000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120287704",
+      "name": "Frontend-разработчик",
+      "employer": {
+        "name": "Major Ассистанс",
+        "url": "https://hh.ru/employer/1504076"
+      },
+      "salary_from": 180000,
+      "salary_to": 200000,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "VueJS",
+        "CSS",
+        "Webpack",
+        "HTML5"
+      ]
+    },
+    {
+      "id": "120337226",
+      "name": "QA инженер",
+      "employer": {
+        "name": "Spice IT",
+        "url": "https://hh.ru/employer/654435"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120361277",
+      "name": "Senior Frontend разработчик (React)",
+      "employer": {
+        "name": "ЭДС",
+        "url": "https://hh.ru/employer/6096024"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "Более 6 лет",
+      "key_skills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Frontend",
+        "HTML5",
+        "CSS3",
+        "SASS/SCSS",
+        "Git",
+        "FSD",
+        "Webpack",
+        "Vite",
+        "Storybook",
+        "Lerna",
+        "MapLibre",
+        "OpenLayers",
+        "3D карты"
+      ]
+    },
+    {
+      "id": "120279617",
+      "name": "Фронтэнд разработчик на React (удалённо)",
+      "employer": {
+        "name": "РадарИТ",
+        "url": "https://hh.ru/employer/4412645"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "JavaScript",
+        "TypeScript",
+        "Redux",
+        "React"
+      ]
+    },
+    {
+      "id": "119479827",
+      "name": "Frontend-разработчик в Only (Next.js, React)",
+      "employer": {
+        "name": "Онли",
+        "url": "https://hh.ru/employer/2049601"
+      },
+      "salary_from": 140000,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "HTML",
+        "CSS",
+        "React",
+        "TypeScript",
+        "Git",
+        "Webpack",
+        "Java Script",
+        "ООП",
+        "Pug",
+        "SCSS"
+      ]
+    },
+    {
+      "id": "120349107",
+      "name": "Junior Frontend Developer",
+      "employer": {
+        "name": "TravelLine",
+        "url": "https://hh.ru/employer/1136961"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "JavaScript",
+        "CSS",
+        "HTML5",
+        "PHP"
+      ]
+    },
+    {
+      "id": "120243921",
+      "name": "Frontend-разработчик",
+      "employer": {
+        "name": "Фаст Софт",
+        "url": "https://hh.ru/employer/5879545"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": []
+    },
+    {
+      "id": "119625825",
+      "name": "Frontend-разработчик",
+      "employer": {
+        "name": "Рефни",
+        "url": "https://hh.ru/employer/9448954"
+      },
+      "salary_from": 300000,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "CI/CD",
+        "Webpack",
+        "Node.js"
+      ]
+    },
+    {
+      "id": "119970695",
+      "name": "Junior python разработчик (Django, Fast API)",
+      "employer": {
+        "name": "ВЕЛЕС РИСЕРЧ",
+        "url": "https://hh.ru/employer/1736014"
+      },
+      "salary_from": 40000,
+      "salary_to": 60000,
+      "experience": "Нет опыта",
+      "key_skills": [
+        "Python",
+        "PostgreSQL",
+        "FastAPI",
+        "Git",
+        "Django Framework",
+        "GitHub",
+        "REST API",
+        "Оптимизация кода"
+      ]
+    },
+    {
+      "id": "120157219",
+      "name": "React developer (Middle+)",
+      "employer": {
+        "name": "Коллектив Интеллидженс Системс",
+        "url": "https://hh.ru/employer/5236826"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "React",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Git",
+        "Английский язык",
+        "Agile",
+        "Scrum"
+      ]
+    },
+    {
+      "id": "120260599",
+      "name": "Frontend-разработчик",
+      "employer": {
+        "name": "М2 КОННЕКТ",
+        "url": "https://hh.ru/employer/5975292"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "Java Script",
+        "VueJS",
+        "CSS",
+        "HTML",
+        "jQuery",
+        "Bootstrap"
+      ]
+    },
+    {
+      "id": "120306019",
+      "name": "Junior Верстальщик HTML5/CSS3",
+      "employer": {
+        "name": "ИНЛАЙН",
+        "url": "https://hh.ru/employer/76164"
+      },
+      "salary_from": 30000,
+      "salary_to": 35000,
+      "experience": "Нет опыта",
+      "key_skills": []
+    },
+    {
+      "id": "120321489",
+      "name": "Ведущий frontend разработчик",
+      "employer": {
+        "name": "Росагролизинг",
+        "url": "https://hh.ru/employer/7102"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120185144",
+      "name": "Junior Frontend-разработчик",
+      "employer": {
+        "name": "СОФИ И ПАРТНЕРЫ",
+        "url": "https://hh.ru/employer/11977956"
+      },
+      "salary_from": 90000,
+      "salary_to": null,
+      "experience": "Нет опыта",
+      "key_skills": [
+        "JavaScript",
+        "React",
+        "VueJS"
+      ]
+    },
+    {
+      "id": "120285083",
+      "name": "HTML верстальщик",
+      "employer": {
+        "name": "Кускейп",
+        "url": "https://hh.ru/employer/5738382"
+      },
+      "salary_from": 30000,
+      "salary_to": 50000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "HTML",
+        "Кроссбраузерная верстка",
+        "JavaScript",
+        "Адаптивная верстка",
+        "Верстка сайтов"
+      ]
+    },
+    {
+      "id": "120345556",
+      "name": "Junior developer (разработчик Phyton)",
+      "employer": {
+        "name": "PANCAKE PRODUCTION",
+        "url": "https://hh.ru/employer/11040411"
+      },
+      "salary_from": 70000,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": []
+    },
+    {
+      "id": "117246175",
+      "name": "Инженер по тестированию ПО",
+      "employer": {
+        "name": "Сервисный центр Транстелематика",
+        "url": "https://hh.ru/employer/2679520"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "Тестирование",
+        "Тестирование пользовательского интерфейса",
+        "Функциональное тестирование",
+        "Регрессионное тестирование",
+        "Модульное тестирование",
+        "Нагрузочное тестирование",
+        "Тестовая документация",
+        "Bug Reporting",
+        "Bug Tracking Systems",
+        "Linux",
+        "Протоколы",
+        "SQL"
+      ]
+    },
+    {
+      "id": "119557845",
+      "name": "Frontend-разработчик",
+      "employer": {
+        "name": "Boosty",
+        "url": "https://hh.ru/employer/11570048"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "Next.js",
+        "React",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "120320529",
+      "name": "Ведущий frontend разработчик",
+      "employer": {
+        "name": "RURU",
+        "url": "https://hh.ru/employer/2692998"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": []
+    },
+    {
+      "id": "119480003",
+      "name": "Frontend-разработчик",
+      "employer": {
+        "name": "getmatch",
+        "url": "https://hh.ru/employer/864086"
+      },
+      "salary_from": null,
+      "salary_to": 400000,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "React",
+        "TypeScript",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "120089182",
+      "name": "UX/UI-дизайнер/Продуктовый дизайнер (Junior)",
+      "employer": {
+        "name": "Кадыров Дмитрий Сергеевич",
+        "url": "https://hh.ru/employer/11974893"
+      },
+      "salary_from": 50000,
+      "salary_to": 120000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120236746",
+      "name": "Старший QA инженер",
+      "employer": {
+        "name": "ГКУ Инфогород",
+        "url": "https://hh.ru/employer/2427329"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "SQL",
+        "Python",
+        "JavaScript",
+        "Low-code",
+        "SDLC",
+        "STLC",
+        "Написание тест-кейсов"
+      ]
+    },
+    {
+      "id": "119206219",
+      "name": "Тестировщик QA (web)",
+      "employer": {
+        "name": "Онли",
+        "url": "https://hh.ru/employer/2049601"
+      },
+      "salary_from": 80000,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Тестирование"
+      ]
+    },
+    {
+      "id": "120096530",
+      "name": "Frontend разработчик",
+      "employer": {
+        "name": "Аддамант",
+        "url": "https://hh.ru/employer/2495553"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "Nginx",
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "120160696",
+      "name": "Frontend Developer, remote",
+      "employer": {
+        "name": "Тайгер Трейд",
+        "url": "https://hh.ru/employer/5524188"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "JavaScript",
+        "React",
+        "Redux"
+      ]
+    },
+    {
+      "id": "119930752",
+      "name": "Middle Frontend-разработчик — React",
+      "employer": {
+        "name": "Одиссей-Инфо",
+        "url": "https://hh.ru/employer/10428483"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "JavaScript",
+        "React",
+        "HTML",
+        "CSS",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "120247974",
+      "name": "Разработчик React",
+      "employer": {
+        "name": "Bell Integrator",
+        "url": "https://hh.ru/employer/6189"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "JavaScript",
+        "React",
+        "TypeScript",
+        "HTML",
+        "Git",
+        "Webpack"
+      ]
+    },
+    {
+      "id": "116105297",
+      "name": "Junior developer TypeScript (JavaScript)",
+      "employer": {
+        "name": "Linked Helper",
+        "url": "https://hh.ru/employer/3229175"
+      },
+      "salary_from": 800,
+      "salary_to": 1200,
+      "experience": "Нет опыта",
+      "key_skills": [
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "React",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "id": "120193280",
+      "name": "Веб-разработчик/верстальщик",
+      "employer": {
+        "name": "BigTime",
+        "url": "https://hh.ru/employer/5978657"
+      },
+      "salary_from": 40000,
+      "salary_to": 120000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "Внутренняя оптимизация сайта",
+        "Составление семантического ядра",
+        "внешний аудит сайта",
+        "внутренний аудит сайта",
+        "Внешняя оптимизация сайта",
+        "Аудит поисковой видимости сайта",
+        "SEO оптимизация",
+        "разработка сайта",
+        "CMS Wordpress"
+      ]
+    },
+    {
+      "id": "119827956",
+      "name": "Python-разработчик",
+      "employer": {
+        "name": "Лидер Екатерина Сергеевна",
+        "url": "https://hh.ru/employer/6075397"
+      },
+      "salary_from": 150000,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": []
+    },
+    {
+      "id": "119878759",
+      "name": "QA Engineer/Тестировщик ПО",
+      "employer": {
+        "name": "Газпромбанк Лизинг",
+        "url": "https://hh.ru/employer/169875"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "Тестирование",
+        "Функциональное тестирование",
+        "Регрессионное тестирование",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "120114103",
+      "name": "Frontend-разработчик (Лукоморье)",
+      "employer": {
+        "name": "Ростелеком Информационные Технологии",
+        "url": "https://hh.ru/employer/3144945"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "JavaScript",
+        "CSS",
+        "TypeScript",
+        "React"
+      ]
+    },
+    {
+      "id": "120040589",
+      "name": "Frontend-разработчик / Middle Frontend Developer",
+      "employer": {
+        "name": "А ДЕНЬГИ",
+        "url": "https://hh.ru/employer/9368347"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "JavaScript",
+        "VueJS",
+        "API",
+        "Git"
+      ]
+    },
+    {
+      "id": "117800617",
+      "name": "Frontend-разработчик",
+      "employer": {
+        "name": "Группа компаний «Триумф»",
+        "url": "https://hh.ru/employer/4161"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "Автоматизация",
+        "САПР"
+      ]
+    },
+    {
+      "id": "120310733",
+      "name": "Frontend-разработчик Typescript React в IT-компанию",
+      "employer": {
+        "name": "Selsup",
+        "url": "https://hh.ru/employer/10000774"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "TypeScript",
+        "React",
+        "Express"
+      ]
+    },
+    {
+      "id": "120223876",
+      "name": "Frontend-разработчик (middle)",
+      "employer": {
+        "name": "Красивый город",
+        "url": "https://hh.ru/employer/996356"
+      },
+      "salary_from": 140000,
+      "salary_to": 160000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120216909",
+      "name": "Frontend Developer (React)",
+      "employer": {
+        "name": "«Баланс-Платформа»",
+        "url": "https://hh.ru/employer/2643808"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "JavaScript",
+        "React",
+        "REST API",
+        "HTTP"
+      ]
+    },
+    {
+      "id": "120078068",
+      "name": "Инженер по ручному тестированию (Middle)",
+      "employer": {
+        "name": "Omni Sale",
+        "url": "https://hh.ru/employer/2928913"
+      },
+      "salary_from": 100000,
+      "salary_to": 140000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "Ручное тестирование",
+        "Test case",
+        "Составление тест-кейсов",
+        "Тестирование по тест-кейсам",
+        "Atlassian Jira",
+        "Анализ требований",
+        "TestRail",
+        "Qase.io",
+        "Тест-дизайн",
+        "Интеграционное тестирование",
+        "Функциональное тестирование",
+        "JavaScript",
+        "XML/Xslt"
+      ]
+    },
+    {
+      "id": "120233246",
+      "name": "Тестировщик (Manual QA)",
+      "employer": {
+        "name": "Rizz.Market",
+        "url": "https://hh.ru/employer/11651275"
+      },
+      "salary_from": 80000,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": []
+    },
+    {
+      "id": "119910415",
+      "name": "QA manual в направление авиа (команда FireFly)",
+      "employer": {
+        "name": "Туту",
+        "url": "https://hh.ru/employer/5325"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120318585",
+      "name": "Middle Backend Разработчик",
+      "employer": {
+        "name": "Solo",
+        "url": "https://hh.ru/employer/11370969"
+      },
+      "salary_from": 160000,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "Python"
+      ]
+    },
+    {
+      "id": "120347187",
+      "name": "Frontend-разработчик",
+      "employer": {
+        "name": "Fundmates",
+        "url": "https://hh.ru/employer/9418256"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": []
+    }
+  ],
+  "statistics": {
+    "total": 3341,
+    "salary_stats": {
+      "min": 800,
+      "max": 400000,
+      "mean": 109195.55555555556,
+      "median": 90000
+    },
+    "experience_distribution": {
+      "От 1 года до 3 лет": 31,
+      "От 3 до 6 лет": 20,
+      "Нет опыта": 6,
+      "Более 6 лет": 2
+    },
+    "top_skills": {
+      "JavaScript": 25,
+      "React": 20,
+      "TypeScript": 15,
+      "CSS": 11,
+      "HTML": 10,
+      "Git": 8,
+      "Функциональное тестирование": 5,
+      "Webpack": 5,
+      "Node.js": 4,
+      "SQL": 4,
+      "Python": 4,
+      "Тестирование": 4,
+      "Регрессионное тестирование": 4,
+      "VueJS": 4,
+      "HTML5": 4,
+      "API": 3,
+      "PostgreSQL": 3,
+      "REST API": 3,
+      "REST": 3,
+      "Redux": 3
+    },
+    "skills_stats": {
+      "total_vacancies_with_skills": 42
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "vacancies": [
+    {
+      "id": "119833308",
+      "name": "QA-инженер (веб-сайты)",
+      "employer": {
+        "name": "Флант",
+        "url": "https://hh.ru/employer/1121824"
+      },
+      "salary_from": 80000,
+      "salary_to": 120000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "API",
+        "Postman",
+        "HTML"
+      ]
+    },
+    {
+      "id": "119771963",
+      "name": "Manual QA Engineer (Middle)",
+      "employer": {
+        "name": "ЮНИРЕСТ",
+        "url": "https://hh.ru/employer/17796"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": []
+    }
+  ],
+  "statistics": {
+    "total": 3341,
+    "salary_stats": {
+      "min": 80000,
+      "max": 120000,
+      "mean": 100000.0,
+      "median": 120000
+    },
+    "experience_distribution": {
+      "От 1 года до 3 лет": 1,
+      "От 3 до 6 лет": 1
+    },
+    "top_skills": {
+      "API": 1,
+      "Postman": 1,
+      "HTML": 1
+    },
+    "skills_stats": {
+      "total_vacancies_with_skills": 1
+    }
+  }
+}
