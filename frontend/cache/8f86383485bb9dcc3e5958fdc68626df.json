@@ -1,0 +1,285 @@
+{
+  "timestamp": "2025-05-02T03:08:04.882146",
+  "results": [
+    {
+      "id": "120110174",
+      "name": "Junior разработчик (Python/Go/JavaScript/Java/PHP)",
+      "employer": "Чепайкин Александр Александрович",
+      "has_salary": "True",
+      "salary_from": "69600.0",
+      "salary_to": "",
+      "experience": "Нет опыта",
+      "schedule": "Удаленная работа",
+      "key_skills": [
+        "\"[Python"
+      ],
+      "description": " 'SQL'"
+    },
+    {
+      "id": "119787879",
+      "name": "Junior Python developer",
+      "employer": "Эквариум",
+      "has_salary": "True",
+      "salary_from": "100000.0",
+      "salary_to": "130000.0",
+      "experience": "От 1 года до 3 лет",
+      "schedule": "Полный день",
+      "key_skills": [
+        "\"[Python"
+      ],
+      "description": " 'Git'"
+    },
+    {
+      "id": "119404193",
+      "name": "Junior+/Middle Python Developer",
+      "employer": "AbeloHost B.V.",
+      "has_salary": "True",
+      "salary_from": "73862.0",
+      "salary_to": "129258.0",
+      "experience": "От 1 года до 3 лет",
+      "schedule": "Удаленная работа",
+      "key_skills": [
+        "\"[Python"
+      ],
+      "description": " 'PostgreSQL'"
+    },
+    {
+      "id": "120039495",
+      "name": "Программист python (custom node)",
+      "employer": "КИК",
+      "has_salary": "True",
+      "salary_from": "130000.0",
+      "salary_to": "",
+      "experience": "От 1 года до 3 лет",
+      "schedule": "Удаленная работа",
+      "key_skills": [
+        ""
+      ],
+      "description": "\"VizoGen: Где пиксели становятся золотом"
+    },
+    {
+      "id": "119496582",
+      "name": "Программист Python junior",
+      "employer": "CDNvideo (ООО СДН-видео)",
+      "has_salary": "True",
+      "salary_from": "87000.0",
+      "salary_to": "87000.0",
+      "experience": "От 1 года до 3 лет",
+      "schedule": "Полный день",
+      "key_skills": [
+        "\"[Python"
+      ],
+      "description": " 'Git'"
+    },
+    {
+      "id": "118642955",
+      "name": "Python-разработчик",
+      "employer": "АНО АЦГ",
+      "has_salary": "False",
+      "salary_from": "",
+      "salary_to": "",
+      "experience": "От 1 года до 3 лет",
+      "schedule": "Полный день",
+      "key_skills": [
+        "\"[Python"
+      ],
+      "description": " 'PostgreSQL'"
+    },
+    {
+      "id": "119757256",
+      "name": "Python-разработчик",
+      "employer": "Карвиль",
+      "has_salary": "True",
+      "salary_from": "250000.0",
+      "salary_to": "300000.0",
+      "experience": "От 3 до 6 лет",
+      "schedule": "Удаленная работа",
+      "key_skills": [
+        "\"[Python"
+      ],
+      "description": " 'SQL'"
+    },
+    {
+      "id": "120070975",
+      "name": "Frontend-Backend разработчик (Python)",
+      "employer": "Алгкод",
+      "has_salary": "True",
+      "salary_from": "78300.0",
+      "salary_to": "130500.0",
+      "experience": "От 1 года до 3 лет",
+      "schedule": "Полный день",
+      "key_skills": [
+        "\"[Python"
+      ],
+      "description": " 'Node.js'"
+    },
+    {
+      "id": "120102518",
+      "name": "Middle Python Developer",
+      "employer": "Эргешов А.А.",
+      "has_salary": "True",
+      "salary_from": "39553.0",
+      "salary_to": "55375.0",
+      "experience": "От 1 года до 3 лет",
+      "schedule": "Полный день",
+      "key_skills": [
+        "\"[Python"
+      ],
+      "description": " 'PostgreSQL'"
+    },
+    {
+      "id": "120059961",
+      "name": "Python разработчик middle (агрегатор туров)",
+      "employer": "Туроператор Русь",
+      "has_salary": "True",
+      "salary_from": "130000.0",
+      "salary_to": "170000.0",
+      "experience": "От 1 года до 3 лет",
+      "schedule": "Полный день",
+      "key_skills": [
+        ""
+      ],
+      "description": "\"➡️ Требуется Python разработчик (Django) на backend уровня middle. Работа в офисе (без удаленки). Найм в связи с расширением. ⏬⏬⏬ ⌚ График работы: 5/2 c 9 до 18 или с 10 до 19 (на выбор).➡️ Откликнись сейчас на эту вакансию и тебя пригласят на собеседование! ⏬⏬⏬ ➡️ Полностью официальная зарплата (130 000 - 170 000 ₽) и трудоустройство.❕Оплата вовремя! По законодательству.⛱️ Полная оплата отпускных"
+    },
+    {
+      "id": "119774110",
+      "name": "Junior Python разработчик",
+      "employer": "МедРокет",
+      "has_salary": "True",
+      "salary_from": "63231.0",
+      "salary_to": "",
+      "experience": "Нет опыта",
+      "schedule": "Полный день",
+      "key_skills": [
+        ""
+      ],
+      "description": "\"МЕДРОКЕТ - платформа IT-решений для медицины. Мы разрабатываем и развиваем цифровые продукты для клиник"
+    },
+    {
+      "id": "120110005",
+      "name": "Fullstack Developer (Python + React)",
+      "employer": "Прохорченко Дарья Игоревна",
+      "has_salary": "True",
+      "salary_from": "",
+      "salary_to": "260000.0",
+      "experience": "От 1 года до 3 лет",
+      "schedule": "Удаленная работа",
+      "key_skills": [
+        ""
+      ],
+      "description": "\"Мы — технологичная финтех-команда нового поколения.   Мы разрабатываем современные криптоплатформы и сервисы для e-commerce"
+    },
+    {
+      "id": "119516520",
+      "name": "Python-разработчик",
+      "employer": "Арго Медиа",
+      "has_salary": "True",
+      "salary_from": "250000.0",
+      "salary_to": "",
+      "experience": "От 3 до 6 лет",
+      "schedule": "Удаленная работа",
+      "key_skills": [
+        "\"[Python"
+      ],
+      "description": " 'FastAPI'"
+    },
+    {
+      "id": "120087155",
+      "name": "Trainee/Intern/Junior Python backend developer",
+      "employer": "Рекруто",
+      "has_salary": "True",
+      "salary_from": "17400.0",
+      "salary_to": "34800.0",
+      "experience": "Нет опыта",
+      "schedule": "Полный день",
+      "key_skills": [
+        "\"[Python"
+      ],
+      "description": " 'Celery'"
+    },
+    {
+      "id": "119064176",
+      "name": "Разработчик бэк-энда Python для AI проектов",
+      "employer": "UzVIP",
+      "has_salary": "False",
+      "salary_from": "",
+      "salary_to": "",
+      "experience": "Нет опыта",
+      "schedule": "Полный день",
+      "key_skills": [
+        "\"[Git"
+      ],
+      "description": " 'Hibernate ORM'"
+    },
+    {
+      "id": "118572460",
+      "name": "Python-разработчик",
+      "employer": "Точка",
+      "has_salary": "True",
+      "salary_from": "",
+      "salary_to": "495900.0",
+      "experience": "От 3 до 6 лет",
+      "schedule": "Полный день",
+      "key_skills": [
+        "\"[Python"
+      ],
+      "description": " 'FastAPI'"
+    },
+    {
+      "id": "80736556",
+      "name": "Разработчик Python",
+      "employer": "Электронная медицина",
+      "has_salary": "True",
+      "salary_from": "30000.0",
+      "salary_to": "80000.0",
+      "experience": "Нет опыта",
+      "schedule": "Полный день",
+      "key_skills": [
+        "\"[Python"
+      ],
+      "description": " 'Git'"
+    },
+    {
+      "id": "119430195",
+      "name": "Python Backend Developer",
+      "employer": "IT SCOUT",
+      "has_salary": "False",
+      "salary_from": "",
+      "salary_to": "",
+      "experience": "От 1 года до 3 лет",
+      "schedule": "Полный день",
+      "key_skills": [
+        ""
+      ],
+      "description": "\"Мы — кадровое агентство Match"
+    },
+    {
+      "id": "119998178",
+      "name": "Middle / Middle+ Python Developer",
+      "employer": "EVERTECH",
+      "has_salary": "False",
+      "salary_from": "",
+      "salary_to": "",
+      "experience": "От 1 года до 3 лет",
+      "schedule": "Удаленная работа",
+      "key_skills": [
+        ""
+      ],
+      "description": "\"About Us:Evertech is a leading outsourcing service company"
+    },
+    {
+      "id": "120025404",
+      "name": "Python-разработчик",
+      "employer": "ЮНИС Лабс Решение",
+      "has_salary": "True",
+      "salary_from": "160000.0",
+      "salary_to": "",
+      "experience": "От 1 года до 3 лет",
+      "schedule": "Удаленная работа",
+      "key_skills": [
+        "\"[ООП"
+      ],
+      "description": " 'SQL'"
+    }
+  ]
+}

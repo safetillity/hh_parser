@@ -1,0 +1,18 @@
+{
+  "short_name": "HH Parser",
+  "name": "Парсер вакансий hh.ru",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "48x48 72x72 96x96 128x128 256x256 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#1976d2",
+  "background_color": "#ffffff",
+  "prefer_related_applications": false
+} 

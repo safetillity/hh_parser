@@ -1,0 +1,398 @@
+{
+  "vacancies": [
+    {
+      "id": "120362883",
+      "name": "Тестировщик (QA)",
+      "employer": {
+        "name": "Квиз, плиз!",
+        "url": "https://hh.ru/employer/2276838"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "Тестирование",
+        "Кроссплатформенное тестирование",
+        "PHPUnit",
+        "Swagger",
+        "Grafana",
+        "Postman",
+        "Работа в команде",
+        "GitLab CI",
+        "Нагрузочное тестирование",
+        "Ручное тестирование",
+        "Регрессионное тестирование",
+        "Постановка задач разработчикам"
+      ]
+    },
+    {
+      "id": "119771963",
+      "name": "Manual QA Engineer (Middle)",
+      "employer": {
+        "name": "ЮНИРЕСТ",
+        "url": "https://hh.ru/employer/17796"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120226828",
+      "name": "Младший специалист по тестированию",
+      "employer": {
+        "name": "Панина Анастасия Александровна",
+        "url": "https://hh.ru/employer/5995606"
+      },
+      "salary_from": 70000,
+      "salary_to": null,
+      "experience": "Нет опыта",
+      "key_skills": []
+    },
+    {
+      "id": "120352691",
+      "name": "Тестировщик ПО (QA инженер)",
+      "employer": {
+        "name": "United Ads LTD",
+        "url": "https://hh.ru/employer/5648210"
+      },
+      "salary_from": 70000,
+      "salary_to": null,
+      "experience": "Нет опыта",
+      "key_skills": []
+    },
+    {
+      "id": "120025680",
+      "name": "Middle QA Engineer",
+      "employer": {
+        "name": "ИТ-Экспертиза",
+        "url": "https://hh.ru/employer/3073329"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120355717",
+      "name": "Тестировщик",
+      "employer": {
+        "name": "Inventive Retail Group",
+        "url": "https://hh.ru/employer/112694"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "SQL",
+        "HTML",
+        "1С-Битрикс"
+      ]
+    },
+    {
+      "id": "120303810",
+      "name": "Junior QA Engineer / Тестировщик ПО",
+      "employer": {
+        "name": "Элементарные программные решения",
+        "url": "https://hh.ru/employer/4543504"
+      },
+      "salary_from": null,
+      "salary_to": 100000,
+      "experience": "Нет опыта",
+      "key_skills": [
+        "Английский язык",
+        "Тестирование",
+        "QA",
+        "Ручное тестирование",
+        "Нагрузочное тестирование",
+        "Автоматизация тестирования",
+        "Linux",
+        "Автоматизированное тестирование"
+      ]
+    },
+    {
+      "id": "120337625",
+      "name": "Ручной тестировщик/Manual QA engineer (middle)",
+      "employer": {
+        "name": "Лаборатория качества",
+        "url": "https://hh.ru/employer/551368"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": [
+        "Функциональное тестирование",
+        "Интеграционное тестирование",
+        "White box testing",
+        "Black box testing",
+        "Agile",
+        "Use case",
+        "PostgreSQL",
+        "Составление чек-листов",
+        "Тест-план",
+        "Fiddler",
+        "Charles Proxy",
+        "Postman",
+        "MS SQL",
+        "MySQL",
+        "TeamCity"
+      ]
+    },
+    {
+      "id": "120243020",
+      "name": "Manual QA Engineer",
+      "employer": {
+        "name": "Axenix (ранее Accenture)",
+        "url": "https://hh.ru/employer/4080"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120027179",
+      "name": "QA (функциональный тестировщик)",
+      "employer": {
+        "name": "ИЦ АЙ-ТЕКО",
+        "url": "https://hh.ru/employer/872178"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120263890",
+      "name": "Junior QA Engineer/Младший тестировщик",
+      "employer": {
+        "name": "Монополия",
+        "url": "https://hh.ru/employer/581224"
+      },
+      "salary_from": 80000,
+      "salary_to": 80000,
+      "experience": "Нет опыта",
+      "key_skills": []
+    },
+    {
+      "id": "120224045",
+      "name": "Тестировщик сайтов/ Тестировщик мобильных приложений",
+      "employer": {
+        "name": "REDMOND",
+        "url": "https://hh.ru/employer/61826"
+      },
+      "salary_from": 142000,
+      "salary_to": 142000,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "QA",
+        "web-сайты",
+        "Функциональное тестирование",
+        "Регрессионное тестирование",
+        "Тестирование пользовательского интерфейса",
+        "Тестирование",
+        "Английский язык",
+        "Web приложения"
+      ]
+    },
+    {
+      "id": "120264915",
+      "name": "Ручной тестировщик",
+      "employer": {
+        "name": "Axenix (ранее Accenture)",
+        "url": "https://hh.ru/employer/4080"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120277319",
+      "name": "Intern QA Manual",
+      "employer": {
+        "name": "IBS",
+        "url": "https://hh.ru/employer/139"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "Нет опыта",
+      "key_skills": []
+    },
+    {
+      "id": "120360314",
+      "name": "Инженер по качеству без опыта работы. Начинающий специалист.( м. Волковская)",
+      "employer": {
+        "name": "ИСС",
+        "url": "https://hh.ru/employer/1565668"
+      },
+      "salary_from": 95000,
+      "salary_to": null,
+      "experience": "Нет опыта",
+      "key_skills": [
+        "Работа с большим объемом информации",
+        "Сертификация",
+        "Логическое мышление",
+        "Контроль качества",
+        "Производственный контроль",
+        "Технический контроль производства",
+        "Управление качеством",
+        "Документация испытательной лаборатории",
+        "Контроль качества продукции",
+        "Технологии химической промышленности",
+        "Внимательность",
+        "Контроль выполнения задач",
+        "Проведение испытаний",
+        "Обработка результатов испытаний",
+        "Контроль упаковки",
+        "Уход за лабораторной аппаратурой"
+      ]
+    },
+    {
+      "id": "120224089",
+      "name": "Game QA Engineer (gamedev | тестировщик игр)",
+      "employer": {
+        "name": "ЛАЗЕРТАГ",
+        "url": "https://hh.ru/employer/1229814"
+      },
+      "salary_from": 40000,
+      "salary_to": null,
+      "experience": "Нет опыта",
+      "key_skills": [
+        "Тестирование игр",
+        "gamedev",
+        "QA",
+        "VR",
+        "Unity"
+      ]
+    },
+    {
+      "id": "120240613",
+      "name": "Тестировщик - QA Engineer (Middle+)",
+      "employer": {
+        "name": "BIV",
+        "url": "https://hh.ru/employer/1452716"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 1 года до 3 лет",
+      "key_skills": [
+        "Работа в команде",
+        "Функциональное тестирование",
+        "Ручное тестирование"
+      ]
+    },
+    {
+      "id": "119560978",
+      "name": "Тестировщик",
+      "employer": {
+        "name": "ТРЭИ",
+        "url": "https://hh.ru/employer/3202156"
+      },
+      "salary_from": 86000,
+      "salary_to": null,
+      "experience": "Нет опыта",
+      "key_skills": [
+        "Тестирование",
+        "Функциональное тестирование",
+        "Нагрузочное тестирование",
+        "Схемотехника электронного оборудования",
+        "АСУ"
+      ]
+    },
+    {
+      "id": "120227969",
+      "name": "Manual QA engineer",
+      "employer": {
+        "name": "Finstar Financial Group",
+        "url": "https://hh.ru/employer/180028"
+      },
+      "salary_from": null,
+      "salary_to": null,
+      "experience": "От 3 до 6 лет",
+      "key_skills": []
+    },
+    {
+      "id": "120357215",
+      "name": "Тестировщик скриптов",
+      "employer": {
+        "name": "UltraCOM",
+        "url": "https://hh.ru/employer/1473202"
+      },
+      "salary_from": 70000,
+      "salary_to": null,
+      "experience": "Нет опыта",
+      "key_skills": [
+        "Телефонные переговоры",
+        "Ведение клиентской базы",
+        "Корпоративная этика",
+        "Умение вести переговоры",
+        "Ведение деловой переписки",
+        "CRM",
+        "Многозадачность",
+        "Маркетинг",
+        "Навыки переговоров",
+        "Ведение переписки",
+        "Деловая коммуникация",
+        "Ориентация на результат",
+        "Деловая этика",
+        "Интернет-реклама",
+        "Internet Marketing",
+        "Ведение отчетности",
+        "Аналитическое мышление",
+        "Навыки презентации",
+        "Поисковые системы",
+        "Аудит поисковой видимости сайта",
+        "Ориентация на клиента",
+        "Внутренняя оптимизация сайта",
+        "Уверенный пользователь Excel",
+        "Консультация клиентов",
+        "Умение слушать",
+        "Консультация",
+        "Умение общаться с людьми",
+        "Деловая переписка",
+        "Работа в команде",
+        "Ведение переговоров"
+      ]
+    }
+  ],
+  "statistics": {
+    "total": 3633,
+    "salary_stats": {
+      "min": 40000,
+      "max": 142000,
+      "mean": 88636.36363636363,
+      "median": 80000
+    },
+    "experience_distribution": {
+      "От 1 года до 3 лет": 6,
+      "От 3 до 6 лет": 5,
+      "Нет опыта": 9
+    },
+    "top_skills": {
+      "Тестирование": 4,
+      "Функциональное тестирование": 4,
+      "Работа в команде": 3,
+      "Нагрузочное тестирование": 3,
+      "Ручное тестирование": 3,
+      "QA": 3,
+      "Postman": 2,
+      "Регрессионное тестирование": 2,
+      "Английский язык": 2,
+      "Кроссплатформенное тестирование": 1,
+      "PHPUnit": 1,
+      "Swagger": 1,
+      "Grafana": 1,
+      "GitLab CI": 1,
+      "Постановка задач разработчикам": 1,
+      "SQL": 1,
+      "HTML": 1,
+      "1С-Битрикс": 1,
+      "Автоматизация тестирования": 1,
+      "Linux": 1
+    },
+    "skills_stats": {
+      "total_vacancies_with_skills": 10
+    }
+  }
+}
